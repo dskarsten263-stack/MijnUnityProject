@@ -1,9 +1,9 @@
 # MijnUnityProject
 
-x# Les1.1 – Oefening 1A: Unity Project Setup
+x# Les1.1 – Oefening 1A: Primitive Building Challenge
 
 ## Beschrijving
-Een nieuw Unity project aangemaakt en de interface, scenes en GameObjects verkend.
+Bouw een huis met alleen basis GameObjects (cubes, spheres, cylinders).
 
 ## Wat ik heb geleerd
 - Unity interface verkennen
@@ -11,10 +11,7 @@ Een nieuw Unity project aangemaakt en de interface, scenes en GameObjects verken
 - GameObject aanmaken en beheren
 
 ## Demo
-![Unity Setup Demo](link-naar-gif)
-
-## Code
-[Geen code in deze les]
+![Unity Setup Demo](<img width="1076" height="740" alt="Scherm­afbeelding 2025-11-06 om 14 58 00" src="https://github.com/user-attachments/assets/f1970eae-5976-4184-b2d8-548f243007e3" />)
 
 # Les1.2 – Oefening 1B: Hello World Script
 
