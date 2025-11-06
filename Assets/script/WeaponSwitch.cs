@@ -7,11 +7,11 @@ public class WeaponSwitch : MonoBehaviour
     void Update()
     {
         // Wisselen van wapen met toetsen 1-4
-        if (Input.GetKeyDown(KeyCode.Alpha1))
+        if (Input.GetKeyDown(KeyCode.S))
             currentWeapon = "Sword";
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        else if (Input.GetKeyDown(KeyCode.B))
             currentWeapon = "Bow";
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        else if (Input.GetKeyDown(KeyCode.))
             currentWeapon = "Staff";
         else if (Input.GetKeyDown(KeyCode.Alpha4))
             currentWeapon = "Dagger";
