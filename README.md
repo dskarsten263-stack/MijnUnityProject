@@ -155,19 +155,17 @@ Zorg dat de cilinder van kleur veranderd
 <img width="547" height="763" alt="Scherm­afbeelding 2025-11-07 om 19 18 44" src="https://github.com/user-attachments/assets/61e83089-e174-43d0-96a1-8c280aae100d" />
 
 
-# Les6.1 – Oefening 6A: Inventory List
+# Les6.1 – Oefening 6: mini-level 
 
 ## Beschrijving
-Inventarisysteem gemaakt met een List<> van items.
+maak een eigen game met bepaalde ding maar helaas heb ik deze niet in tijd kunnen maken maar het is wat 
 
-## Wat ik heb geleerd
-- Lijsten aanmaken en beheren
-- Items toevoegen / verwijderen
-- Itereren door lijsten
 
 ## Demo
-![Inventory Demo](link-naar-gif)
+<img width="1179" height="465" alt="Scherm­afbeelding 2025-11-07 om 19 37 46" src="https://github.com/user-attachments/assets/a3ca69d2-585c-42a8-af4d-9972a489bc51" />
+
 
 ## Code
-[InventoryList.cs](link-naar-je-script)
+<img width="297" height="374" alt="Scherm­afbeelding 2025-11-07 om 19 39 42" src="https://github.com/user-attachments/assets/8aa282ed-3b24-4011-8c2d-0faff258ed10" />
+
 
