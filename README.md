@@ -11,9 +11,10 @@ Bouw een huis met alleen basis GameObjects (cubes, spheres, cylinders).
 - GameObject aanmaken en beheren
 
 ## Demo
-![Unity Setup Demo](<img width="1076" height="740" alt="Scherm­afbeelding 2025-11-06 om 14 58 00" src="https://github.com/user-attachments/assets/f1970eae-5976-4184-b2d8-548f243007e3" />)
+<img width="819" height="617" alt="Scherm­afbeelding 2025-11-07 om 17 42 10" src="https://github.com/user-attachments/assets/42cb40fb-fef0-4221-b5e3-d9cc8698ad91" />
 
-# Les1.2 – Oefening 1B: Hello World Script
+
+# Les1.2 – Oefening 1c: YouTube Video Logger
 
 ## Beschrijving
 Script gemaakt dat berichten toont in de console met Debug.Log().
@@ -24,12 +25,13 @@ Script gemaakt dat berichten toont in de console met Debug.Log().
 - Basis C# structuur (classes, methoden)
 
 ## Demo
-![Hello World Demo](link-naar-gif)
+![Schermopname2025-11-06om15 11 33-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/04bfd38a-9850-4036-b4f0-38035a1284be)
 
 ## Code
-[HelloWorld.cs](link-naar-je-script)
+<img width="372" height="696" alt="Scherm­afbeelding 2025-11-07 om 17 50 06" src="https://github.com/user-attachments/assets/64b2d896-26f1-48f3-9dbe-47b0ef3e23d4" />
 
-# Les2.1 – Oefening 2A: Player Movement
+
+# Les2.1 – Oefening 2A: Draaiend muntje (Coin)
 
 ## Beschrijving
 Script om speler te bewegen met toetsen, gebruik makend van deltaTime.
@@ -40,10 +42,12 @@ Script om speler te bewegen met toetsen, gebruik makend van deltaTime.
 - GameObject verplaatsen
 
 ## Demo
-![Player Movement Demo](link-naar-gif)
+![Schermopname2025-11-07om18 16 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/30ef332e-c707-4fc2-89ad-5cba03fcc2fe)
+
 
 ## Code
-[PlayerMovement.cs](link-naar-je-script)
+<img width="812" height="356" alt="Scherm­afbeelding 2025-11-07 om 18 21 12" src="https://github.com/user-attachments/assets/256de713-bfb8-4ff0-b31f-5852ed3f2f6d" />
+
 
 # Les2.2 – Oefening 2B: Keyboard Input & Variables
 
@@ -56,10 +60,12 @@ Spelerbeweging aanpassen met variabelen en simpele if-statements.
 - Keyboard input verwerken
 
 ## Demo
-![Input Demo](link-naar-gif)
+![Schermopname2025-11-07om18 42 25-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/88ff0e94-202c-4146-9e79-3f85163cc827)
+
 
 ## Code
-[PlayerInput.cs](link-naar-je-script)
+![Schermopname2025-11-07om18 33 18-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/20b7e364-9bd3-41db-a73b-21bfbb731457)
+
 
 # Les3.1 – Oefening 3A: Rigidbody & Collisions
 
