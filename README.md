@@ -78,15 +78,17 @@ Rigidbody toegevoegd aan GameObjects en botsingen getest.
 - Simpele gravity en forces
 
 ## Demo
-![Rigidbody Demo](link-naar-gif)
+![Schermopname2025-11-07om18 51 36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3596c002-421a-44af-ae79-b9ed0f3a88c9)
+
 
 ## Code
-[RigidbodyTest.cs](link-naar-je-script)
+<img width="653" height="574" alt="Scherm­afbeelding 2025-11-07 om 18 57 43" src="https://github.com/user-attachments/assets/3e32a1db-1ce7-4557-9c77-dfaa08c8dcda" />
 
-# Les3.2 – Oefening 3B: Functions Practice
+
+# Les3.2 – Oefening 3C: Fantasy Spellbook
 
 ## Beschrijving
-Functies gemaakt die input parameters gebruiken en waarden teruggeven.
+een spellbook met veel spells 
 
 ## Wat ik heb geleerd
 - Functies definiëren
@@ -94,44 +96,29 @@ Functies gemaakt die input parameters gebruiken en waarden teruggeven.
 - Herbruikbare code schrijven
 
 ## Demo
-![Functions Demo](link-naar-gif)
+![Schermopname2025-11-07om19 06 19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bdd6f3d8-bbe7-4d13-8373-12603468b6bc)
 
 ## Code
-[FunctionsPractice.cs](link-naar-je-script)
+<img width="399" height="794" alt="Scherm­afbeelding 2025-11-07 om 19 01 28" src="https://github.com/user-attachments/assets/f0999e3b-0c84-4d94-b11e-a697cc2ea506" />
 
-# Les4.1 – Oefening 4A: Trigger & Tag Interaction
+
+# Les4.1 – Oefening 4:
 
 ## Beschrijving
-Colliders en triggers toegepast op objecten met tags.
-
+die heb ik helaas niet gemaakt zie ik nu dus mijn excuse 
 ## Wat ik heb geleerd
-- Colliders vs Triggers
-- Tags gebruiken om objecten te identificeren
-- Interacties configureren
+- niet veel dus 
 
-## Demo
-![Triggers Demo](link-naar-gif)
-
-## Code
-[TriggerInteraction.cs](link-naar-je-script)
-
-# Les4.2 – Oefening 4B: OnCollisionEnter & OnTriggerEnter
+# Les4.2 – Oefening 4: 
 
 ## Beschrijving
-Script geschreven om botsingen en triggers te detecteren en reageren.
+die heb ik helaas niet gemaakt zie ik nu dus mijn excuse 
 
 ## Wat ik heb geleerd
-- OnCollisionEnter() & OnTriggerEnter() gebruiken
-- Botsingen afhandelen in code
-- Feedback geven bij interacties
+- niet veel dus
 
-## Demo
-![Collision Demo](link-naar-gif)
-
-## Code
-[CollisionDetection.cs](link-naar-je-script)
-
-# Les5.1 – Oefening 5A: Decision Making
+  
+# Les5.1 – Oefening 5B: Weapon Switch System
 
 ## Beschrijving
 Beslissingslogica toegepast met if-statements en switch statements.
@@ -142,26 +129,31 @@ Beslissingslogica toegepast met if-statements en switch statements.
 - Logica combineren voor game events
 
 ## Demo
-![Decision Demo](link-naar-gif)
+![Schermopname2025-11-07om19 34 40-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/483470dc-775e-43c1-8583-81497ad6a108)
+
 
 ## Code
-[DecisionMaking.cs](link-naar-je-script)
+<img width="486" height="720" alt="Scherm­afbeelding 2025-11-07 om 19 35 18" src="https://github.com/user-attachments/assets/c92e4403-2574-47c7-b1f7-b4ebfd144a3c" />
 
-# Les5.2 – Oefening 5B: Collision Logic
+
+
+# Les5.2 – Oefening 5C: Kleurwisselende Platform
 
 ## Beschrijving
-Botsingen gecombineerd met input en logica voor interactieve gameplay.
+Zorg dat de cilinder van kleur veranderd
 
 ## Wat ik heb geleerd
-- Input + collision combineren
-- Complexere logica implementeren
-- Feedback bij interacties geven
+- meer met GetKeyDown werken
+- hoe rend.material.color werkt
+
 
 ## Demo
-![Collision Logic Demo](link-naar-gif)
+<img width="895" height="418" alt="Scherm­afbeelding 2025-11-07 om 19 15 20" src="https://github.com/user-attachments/assets/befa6bcf-97e9-4872-9b9f-d37f2a155074" />
+
 
 ## Code
-[CollisionLogic.cs](link-naar-je-script)
+<img width="547" height="763" alt="Scherm­afbeelding 2025-11-07 om 19 18 44" src="https://github.com/user-attachments/assets/61e83089-e174-43d0-96a1-8c280aae100d" />
+
 
 # Les6.1 – Oefening 6A: Inventory List
 
@@ -179,66 +171,3 @@ Inventarisysteem gemaakt met een List<> van items.
 ## Code
 [InventoryList.cs](link-naar-je-script)
 
-# Les6.2 – Oefening 6B: Loops Practice
-
-## Beschrijving
-Loops gebruikt om acties herhaald uit te voeren en items te verwerken.
-
-## Wat ik heb geleerd
-- For en foreach loops
-- Nested loops
-- Loop control statements
-
-## Demo
-![Loops Demo](link-naar-gif)
-
-## Code
-[LoopsPractice.cs](link-naar-je-script)
-
-# Les7.2 – Oefening 7B: Mini Project Work
-
-## Beschrijving
-Mini-project opgepakt of gemiste opdrachten ingehaald.
-
-## Wat ik heb geleerd
-- Zelfstandig werk combineren
-- Concepten toepassen in project
-- Project planning en uitvoering
-
-## Demo
-![Mini Project Demo](link-naar-gif)
-
-## Code
-[MiniProject.cs](link-naar-je-script)
-
-# Les8.1 – Oefening 8A: Project Polishing
-
-## Beschrijving
-Mini-project verder uitgewerkt met extra features en polish.
-
-## Wat ik heb geleerd
-- Project afronden en testen
-- Verbeteren van gameplay
-- Debuggen en fine-tuning
-
-## Demo
-![Project Demo](link-naar-gif)
-
-## Code
-[ProjectPolish.cs](link-naar-je-script)
-
-# Les8.2 – Oefening 8B: Final Touches
-
-## Beschrijving
-Project afgerond en voorbereid voor inlevering of herkansing.
-
-## Wat ik heb geleerd
-- Eindcontrole van scripts en scenes
-- Final build testen
-- Documentatie en aantekeningen afronden
-
-## Demo
-![Final Demo](link-naar-gif)
-
-## Code
-[FinalProject.cs](link-naar-je-script)
