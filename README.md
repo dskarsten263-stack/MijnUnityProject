@@ -171,8 +171,6 @@ maak een eigen game met bepaalde ding maar helaas heb ik deze niet in tijd kunne
 
 
 # Module 2
-# RegPin – README
-
 ## Titel
 
 **RegPin**
