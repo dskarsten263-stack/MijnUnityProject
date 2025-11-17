@@ -1,6 +1,7 @@
 # MijnUnityProject
 
-x# Les1.1 – Oefening 1A: Primitive Building Challenge
+# Module 1
+## Les1.1 – Oefening 1A: Primitive Building Challenge
 
 ## Beschrijving
 Bouw een huis met alleen basis GameObjects (cubes, spheres, cylinders).
@@ -167,5 +168,60 @@ maak een eigen game met bepaalde ding maar helaas heb ik deze niet in tijd kunne
 
 ## Code
 <img width="297" height="374" alt="Scherm­afbeelding 2025-11-07 om 19 39 42" src="https://github.com/user-attachments/assets/8aa282ed-3b24-4011-8c2d-0faff258ed10" />
+
+
+# Module 2
+# RegPin – README
+
+## Titel
+
+**RegPin**
+
+## Genre
+
+Physics-based arcade puzzelgame.
+
+## Beschrijving
+
+In RegPin schiet de speler een magische pinbal omlaag een speelveld vol bumps, rotsen en targets in. Wanneer de bal objecten raakt, krijgt de speler punten en kunnen speciale effecten worden geactiveerd, geïnspireerd door de stijl van Peglin. Het doel is zo veel mogelijk punten te behalen binnen één beurt.
+
+## Gameplaykern
+
+1. **Bal**: Een magische runesteen-bal die stuitert en lichteffecten geeft bij impact.
+2. **Targets of bumps**: Houten targets, magische kristallen en stenen pegs die punten opleveren en kunnen verdwijnen.
+3. **Score**: Je krijgt punten voor elke hit – standaard 10 punten, speciale kristallen geven 25 punten.
+4. **Doel**: Een geslaagde beurt is wanneer je voldoende punten hebt behaald voordat de bal de onderkant raakt. Levels kunnen later doelen hebben zoals score-minimums of speciale targets.
+
+## Stijl en sfeer
+
+RegPin heeft een fantasy- en roguelike-uitstraling geïnspireerd door Peglin: warme kleuren, houten materialen, runentekens, lichte gloed-effecten en subtiele magische geluiden. Elke hit geeft visuele feedback zoals particles of kleine vlammetjes.
+
+## Structuur van het level
+
+1. **Bovenaan**: De schietplek met de rune-ball launcher.
+2. **Midden**: Een veld vol pegs, bumps en kristallen in een fantasypatroon.
+3. **Onderaan**: Een opvangzone waar de bal landt om de beurt te beëindigen.
+
+## Levelschets
+
+```
+       [ Launcher ]
+          / | \
+         v  v  v
+      o   o   o   o
+    o   *   o   *   o
+      o   o   o   o
+        *    o    *
+
+  -----------------------
+         opvangzone
+```
+
+## Inspiratie – Peglin
+
+* Peglin combineert physics met RPG-achtige elementen, wat zorgt voor een speels maar strategisch gevoel.
+* De bal voelt zwaar en realistisch, wat belangrijk is voor de satisfactie van het raken.
+* De diagonale en ronde peg-layouts zorgen voor verrassende bounces.
+* Elke hit geeft duidelijke feedback (particles, geluid, score pop-ups), wat erg motiverend werkt.
 
 
