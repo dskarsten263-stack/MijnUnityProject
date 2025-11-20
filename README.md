@@ -222,4 +222,18 @@ RegPin heeft een fantasy- en roguelike-uitstraling geïnspireerd door Peglin: wa
 * De diagonale en ronde peg-layouts zorgen voor verrassende bounces.
 * Elke hit geeft duidelijke feedback (particles, geluid, score pop-ups), wat erg motiverend werkt.
 
+# Les 1A – Array en List: 
+
+## Beschrijving
+Je maakt een array van 10 strings waarin je verschillende items kunt opslaan. Door [SerializeField] te gebruiken wordt deze array zichtbaar in de Unity Inspector, zodat je hem handmatig kunt vullen met 10 item-namen.
+
+## Demo
+![Schermopname2025-11-20om12 31 13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fac5ff4b-2469-4b82-95d8-03baa0f32d27)
+
+
+
+## Code
+<img width="722" height="523" alt="Scherm­afbeelding 2025-11-20 om 12 30 51" src="https://github.com/user-attachments/assets/f426a3fc-b659-40f8-8a0a-1ff5ad3ac864" />
+
+
 
